@@ -1,6 +1,6 @@
 # awesome-deep-trading
 
-Awesome papers of deep learning for trading.
+Papers of deep learning for trading.
 
 | Paper Title                                                                                            | Publish Date | Venue | Author             | Cited By | Category       | Model               | Data       |
 | ------------------------------------------------------------------------------------------------------ | ------------ | ----- | ------------------ | -------- | -------------- | ------------------- | ---------- |
