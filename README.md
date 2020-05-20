@@ -2,19 +2,6 @@
 
 Papers of deep learning for trading.
 
-| Paper Title                                                                                      | Publish Date | Venue    | Author                       | Cited By | Objective     | Loss     | Models                       | Data    |
-| ------------------------------------------------------------------------------------------------ | ------------ | -------- | ---------------------------- | -------- | ------------- | -------- | ---------------------------- | ------- |
-| DeepLOB: Deep Convolutional Neural Networks for Limit Order Books                                | 20190601     | IEEE     | Zihao <BR/> Zhang            | 24       | Trend         | TODO     | CNN+LSTM                     | LOB     |
-| Financial series prediction using Attention LSTM                                                 | 20190228     | arXiv    | Sangyeon Kim                 | 7        | Trend         | TODO     | Attention <BR/> LSTM         | OHLCV   |
-| Financial Time Series Forecasting with Deep Learning : A Systematic Literature Review: 2005-2019 | 20191029     | arXiv    | Omer <BR/> Berat <BR/> Sezer | 5        | N/A           | TODO     | N/A                          | N/A     |
-| Deep learning with long short-term memory networks for financial market predictions              | 20181016     | EJOR     | Thomas <BR/> Fischer         | 323      | Trend         | TODO     | LSTM                         | S&P 500 |
-| An ensemble of LSTM neural networks for high‐frequency stock market classification               | 20190321     | Wiley    | Svetlana <BR/> Borovkova     | 16       | Trend         | TODO     | LSTM                         | OHLCV   |
-| Cryptocurrency Price Analysis with Artificial Intelligence                                       | 20190516     | IEEE     | Wang <BR/> Yiying            | 3        | Price         | TODO     | MLP, <BR/> LSTM              | OHLC    |
-| Predicting the Price of Bitcoin Using Machine Learning                                           | 20161203     | NCIRL    | Sean <BR/> McNally           | 49       | Price         | TODO     | RNN, <BR/> LSTM, <BR/> ARIMA | OHLC    |
-| Artificial Neural Networks for Realized Volatility Prediction in Cryptocurrency Time Series      | 20190626     | Springer | Ryotaro <BR/> Miura          | 2        | RV            | TODO     | Ridge <BR/> Regression       | OHLCV   |
-| Fundamental research questions and proposals on predicting cryptocurrency prices using DNNs      | 202002       | N/A      | Emmanuel <BR/> Pintelas      | 1        | Price; Trend  | RMSE;ACC | CNN-LSTM, <BR/> CNN-BiLSTM   | N/A     |
-| Ensemble Deep Learning Models for Forecasting Cryptocurrency Time-Series                         | 20200510     | MDPI     | Ioannis E. <BR/> Livieris    | 0        | Price ; Trend | RMSE;ACC | CNN-LSTM, <BR/> CNN-BiLSTM   | OHLCV   |
-
 <table>
     <thead>
         <tr>
@@ -71,6 +58,146 @@ Papers of deep learning for trading.
             <td> TODO </td>
             <td> CNN+LSTM </td>
             <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> DeepLOB: Deep Convolutional Neural Networks for Limit Order Books </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190601 </td>
+            <td> IEEE </td>
+            <td> Zihao Zhang </td>
+            <td> 24 </td>
+            <td> Trend </td>
+            <td> TODO </td>
+            <td> CNN+LSTM </td>
+            <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Financial series prediction using Attention LSTM </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190228 </td>
+            <td> arXiv </td>
+            <td> Sangyeon Kim </td>
+            <td> 7 </td>
+            <td> Trend </td>
+            <td> TODO </td>
+            <td> Attention LSTM </td>
+            <td> OHLCV </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Financial Time Series Forecasting with Deep Learning : A Systematic Literature Review: 2005-2019 </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20191029 </td>
+            <td> arXiv </td>
+            <td> Omer Berat Sezer </td>
+            <td> 5 </td>
+            <td>  N/A  </td>
+            <td> TODO </td>
+            <td> N/A </td>
+            <td> N/A </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Deep learning with long short-term memory networks for financial market predictions </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20181016 </td>
+            <td> EJOR </td>
+            <td> Thomas Fischer </td>
+            <td> 323 </td>
+            <td> Trend </td>
+            <td> TODO </td>
+            <td> LSTM </td>
+            <td> S&P 500 </td>
+        </tr>
+        <tr>
+            <td colspan="9"> An ensemble of LSTM neural networks for high‐frequency stock market classification </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190321 </td>
+            <td> Wiley </td>
+            <td> Svetlana Borovkova </td>
+            <td> 16 </td>
+            <td> Trend </td>
+            <td> TODO </td>
+            <td> LSTM </td>
+            <td> OHLCV </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Cryptocurrency Price Analysis with Artificial Intelligence </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190516 </td>
+            <td> IEEE </td>
+            <td> Wang Yiying </td>
+            <td> 3 </td>
+            <td> Price </td>
+            <td> TODO </td>
+            <td> MLP, LSTM </td>
+            <td> OHLC </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Predicting the Price of Bitcoin Using Machine Learning </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20161203 </td>
+            <td> NCIRL </td>
+            <td> Sean McNally </td>
+            <td> 49 </td>
+            <td> Price </td>
+            <td> TODO </td>
+            <td> RNN, LSTM, ARIMA </td>
+            <td> OHLC </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Artificial Neural Networks for Realized Volatility Prediction in Cryptocurrency Time Series </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190626 </td>
+            <td> Springer </td>
+            <td> Ryotaro Miura </td>
+            <td> 2 </td>
+            <td> RV </td>
+            <td> TODO </td>
+            <td> Ridge Regression </td>
+            <td> OHLCV </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Fundamental research questions and proposals on predicting cryptocurrency prices using DNNs </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 202002 </td>
+            <td> N/A </td>
+            <td> Emmanuel Pintelas </td>
+            <td> 1 </td>
+            <td> Price, Trend </td>
+            <td> RMSE, ACC </td>
+            <td> CNN-LSTM, CNN-BiLSTM </td>
+            <td> OHLCV </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Ensemble Deep Learning Models for Forecasting Cryptocurrency Time-Series </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20200510 </td>
+            <td> MDPI </td>
+            <td> Ioannis E. Livieris </td>
+            <td> 0 </td>
+            <td> Price, Trend </td>
+            <td> RMSE, ACC </td>
+            <td> CNN-LSTM, CNN-BiLSTM </td>
+            <td> OHLCV </td>
         </tr>
     </tbody>
 </table>
