@@ -209,7 +209,7 @@ Papers of deep learning for trading.
             <td> Thomas Günter Fischer </td>
             <td> 11 </td>
             <td> Classification </td>
-            <td> RMSE, ACC </td>
+            <td> ACC </td>
             <td> RF, LR </td>
             <td> OHLCV </td>
         </tr>
