@@ -199,7 +199,23 @@ Papers of deep learning for trading.
             <td> CNN-LSTM, CNN-BiLSTM </td>
             <td> OHLCV </td>
         </tr>
+        <tr>
+            <td colspan="9"> Statistical Arbitrage in Cryptocurrency Markets </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190213 </td>
+            <td> JRFM </td>
+            <td> Thomas Günter Fischer </td>
+            <td> 11 </td>
+            <td> Classification </td>
+            <td> RMSE, ACC </td>
+            <td> RF, LR </td>
+            <td> OHLCV </td>
+        </tr>
     </tbody>
 </table>
 
 **LOB**: Limit Order Book **OHLCV**: Open, High, Low, Close, Volume
+
+**RF**: Random Forest **LR**: Logistic Regression
