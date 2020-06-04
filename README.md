@@ -302,8 +302,8 @@ Papers of deep learning for trading.
         </tr>
         <tr>
             <td> </td>
-            <td> 20180515 </td>
-            <td> JOF </td>
+            <td> 20200311 </td>
+            <td> arXiv </td>
             <td> Adamantios Ntakaris </td>
             <td> 25 </td>
             <td> N/A </td>
