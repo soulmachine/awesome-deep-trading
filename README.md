@@ -213,9 +213,111 @@ Papers of deep learning for trading.
             <td> RF, LR </td>
             <td> OHLCV </td>
         </tr>
+        <tr>
+            <td colspan="9"> Deep Learning for Limit Order Books </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20160705 </td>
+            <td> JQF </td>
+            <td> Justin A. Sirignano </td>
+            <td> 50 </td>
+            <td> Classification </td>
+            <td> TODO </td>
+            <td> DNN </td>
+            <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Feature engineering for mid-price prediction with deep learning </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190621 </td>
+            <td> IEEE </td>
+            <td> Adamantios Ntakaris </td>
+            <td> 5 </td>
+            <td> Classification </td>
+            <td> ACC </td>
+            <td> MLP, CNN, LSTM </td>
+            <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Deep Learning for Spatio-Temporal Modeling: Dynamic Traffic Flows and High Frequency Trading </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20180507 </td>
+            <td> arXiv </td>
+            <td> Adamantios Ntakaris </td>
+            <td> 27 </td>
+            <td> Classification </td>
+            <td> ACC </td>
+            <td> DNN </td>
+            <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Machine Learning for Forecasting Mid-Price Movements Using Limit Order Book Data </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190514 </td>
+            <td> IEEE </td>
+            <td> Paraskevi Nousi </td>
+            <td> 10 </td>
+            <td> Classification </td>
+            <td> ACC </td>
+            <td> SVN, ANN </td>
+            <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Extending Deep Learning Models for Limit Order Books to Quantile Regression </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20190611 </td>
+            <td> arXiv </td>
+            <td> Zihao Zhang </td>
+            <td> 3 </td>
+            <td> QL </td>
+            <td> QL </td>
+            <td> DeepLOB-QR </td>
+            <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Deep Reinforcement Learning for Trading </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20191022 </td>
+            <td> JFDS </td>
+            <td> Zihao Zhang </td>
+            <td> 2 </td>
+            <td> TODO </td>
+            <td> TODO </td>
+            <td> DRL </td>
+            <td> LOB </td>
+        </tr>
+        <tr>
+            <td colspan="9"> Benchmark dataset for mid‐price forecasting of limit order book data with machine learning methods </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td> 20180515 </td>
+            <td> JOF </td>
+            <td> Adamantios Ntakaris </td>
+            <td> 25 </td>
+            <td> N/A </td>
+            <td> N/A </td>
+            <td> N/A </td>
+            <td> LOB </td>
+        </tr>
     </tbody>
 </table>
 
 **LOB**: Limit Order Book **OHLCV**: Open, High, Low, Close, Volume
 
 **RF**: Random Forest **LR**: Logistic Regression
+
+**QL**: Quantile Regression, Quantile Loss
+
+**RMSE**: Root Mean Squared Error **ACC**: Accuracy
